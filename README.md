@@ -1,2 +1,3 @@
 # Project 2: Extract, Transform and Load
-![download](https://user-images.githubusercontent.com/100361900/175170664-50ac998b-9dc7-427d-8e92-bae285502527.jpg)
+![istockphoto-1207203968-612x612-1](https://user-images.githubusercontent.com/100361900/175171555-5f389876-8ffc-4b1a-8c1f-a2a0a40a8e8f.jpg)
+
