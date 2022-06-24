@@ -7,7 +7,7 @@
    *  Encounters CSV file 
  * Production Database:
    * PostgresSQL
- * Inquery:
+ * Inqueries:
    *  How many patients between 2010-2019 were presribeded Predinisone?
 ## _Project Report_
  * Extract:
