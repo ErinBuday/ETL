@@ -15,8 +15,8 @@
  * Tranform:<img width="954" alt="Screen Shot 2022-06-23 at 10 34 07 PM" src="https://user-images.githubusercontent.com/100361900/175453662-27bf0b73-553c-4fb4-9986-f2e281960ea0.png">
  * Load:<img width="952" alt="Screen Shot 2022-06-23 at 10 35 53 PM" src="https://user-images.githubusercontent.com/100361900/175453794-b7a32de0-d078-484e-a312-358c5c71035e.png">
  ## _Findings_:
-  * 172 patients received Predinisone over the time span of 2010-2019
-  * There was no correlation to race or gender, there was a coorelation to age.  Older patients received lower mg over a longer period while younger patients received a higher mg over a shorter period.
+  *  172 patients received Predinisone over the time span of 2010-2019
+  *  There was no correlation to race or gender, there was a coorelation to age.  Older patients received lower mg over a longer period while younger patients received a higher mg over a shorter period.
 
 ## _References_
 https://github.com/chop-analytics/analyst-take-home-task.git
