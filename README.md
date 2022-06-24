@@ -11,6 +11,8 @@
    *  How many patients between 2010-2019 were presribeded Predinisone?
 ## _Project Report_
  * Extract:
+ * <img width="1030" alt="Screen Shot 2022-06-23 at 10 33 47 PM" src="https://user-images.githubusercontent.com/100361900/175453462-c31abf7e-659e-4ca8-b31c-e4a7f33da2f6.png">
+
  * Tranform:
  * Load:
 ## _References_
