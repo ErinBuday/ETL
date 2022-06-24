@@ -10,6 +10,9 @@
 
 ## _Questions_:
   *  How many patients between 2010-2019 were presribeded Predinisone?
-  * 
+##_Project Report_:
+ * Extract:
+ * Tranform:
+ * Load:
 ## _References_
 https://github.com/chop-analytics/analyst-take-home-task.git
