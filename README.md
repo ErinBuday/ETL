@@ -5,9 +5,9 @@
    *  Patients CSV file
    *  Medications CSV file 
    *  Encounters CSV file 
- * Production Database
+ * Production Database:
    * PostgresSQL
- * Questions
+ * Questions:
    *  How many patients between 2010-2019 were presribeded Predinisone?
 ## _Project Report_
  * Extract:
