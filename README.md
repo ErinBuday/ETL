@@ -5,10 +5,10 @@
   *  Patients CSV
   *  Medications CSV
   *  Encounters CSV
-## _Production Database:
+## _Production Database_:
   * ProgresSQL
 
-## _Questions:
+## _Questions_:
   *  How many patients between 2010-2019 were presribeded Predinisone?
   * 
 ## _References_
