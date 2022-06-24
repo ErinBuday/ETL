@@ -18,7 +18,7 @@
 
 ## _Findings_:
    * 172 patients received Predinisone over the time span of 2010-2019
-   * There was no correlation to race or gender, there was a coorelation to age.  Older patients received lower mg over a longer period while younger patients received a higher mg over a shorter period of time.
+   * There was no correlation to race or gender, however there was a coorelation to age.  Older patients received lower mg over a longer period while younger patients received a higher mg over a shorter period of time during treatment.
 
 ## _References_
 https://github.com/chop-analytics/analyst-take-home-task.git
