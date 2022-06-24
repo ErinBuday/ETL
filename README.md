@@ -5,5 +5,11 @@
   *  Patients CSV
   *  Medications CSV
   *  Encounters CSV
+## _Production Database:
+  * ProgresSQL
+
+## _Questions:
+  *  How many patients between 2010-2019 were presribeded Predinisone?
+  * 
 ## _References_
 https://github.com/chop-analytics/analyst-take-home-task.git
